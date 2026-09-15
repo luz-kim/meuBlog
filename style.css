@@ -1,0 +1,31 @@
+body {
+    background-color: lch(98.94% 2.05 100.09);
+    font-size: 24px;
+    font-family:"Swanky and Moo Moo", cursive;
+    
+} 
+
+.artigo-blog {
+  max-width: 680px;      
+  margin: 0 auto;        
+  padding: 20px; }        
+
+.artigo-blog h1 {
+  text-align: center;   
+}
+
+.artigo-blog p {
+  text-align: left;     
+}
+
+ .foto-menor { 
+    display: block;
+    margin: 0 auto; 
+    width: 500px; 
+    height: auto; 
+    max-width: 100%;
+}
+
+  h1, h2 {
+  text-align: center;
+}
